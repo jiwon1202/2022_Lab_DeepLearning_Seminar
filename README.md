@@ -1,4 +1,7 @@
 # 2022_Lab_DeepLearning_Seminar
+### [참고한 책]   
+    모두의 딥러닝 개정 3판 (누구나 쉽게 이해할 수 있는 실용적인 딥러닝 입문서)   
+<img src="https://thebook.io/img/covers/cover_080324.jpg" width="30%" height="30%">
 
 ## 1) 22.09.30   
    딥러닝 기초, Colab & Github 사용법, 예측 모델의 기본 원리, 선형 & 로지스틱 회귀 모델 설명   
